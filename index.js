@@ -6,7 +6,7 @@ function illegalWord(sentence, word) {
 
 }
 
-// Tests
+// Uploading to Github
 console.log(!illegalWord('Hello there', 'fudge'));
 console.log(!illegalWord('Hello there', 'there'));
 console.log(illegalWord("But I didn't say fudge", 'fudge'));
